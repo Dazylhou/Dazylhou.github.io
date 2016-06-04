@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "My First Post"
 date:   2016-06-04 19:19:40 -0400
